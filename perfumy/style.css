@@ -1,0 +1,70 @@
+nav{
+    color:rgb(246, 242, 242);
+    background-color: black;
+    padding:20px;
+}
+li,ul,h1{
+    display:inline;
+}
+ul{
+    margin-left:45%;
+}
+li{
+     color:gray;
+     cursor:pointer;
+}
+li:hover{
+ color:white;
+}
+input{
+ width: 60%;
+ padding: 10px;
+}
+.searchbar{
+ padding:20px;
+ text-align:center;
+}
+.one{
+ border-color:black;
+ border-width:2px;
+ border-style:solid;
+ display:inline-block;
+ width:220px;
+}
+.two{
+ border-color:black;
+ border-width:2px;
+ border-style:solid;
+ display:inline-block;
+ width:220px;
+}
+.three{
+ border-color:black;
+ border-width:2px;
+ border-style:solid;
+ display:inline-block;
+ width:220px;
+}
+.products{
+ text-align:center;
+}
+.one:hover{
+ background-color: black;
+ color:white;
+}
+.two:hover{
+ background-color: black;
+ color:white;
+}
+.three:hover{
+ background-color: black;
+ color:white;
+}
+.about{
+ margin:20px;
+}
+.contact{
+ background-color:black;
+ color:white;
+ padding:1px;
+}
